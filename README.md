@@ -1,4 +1,4 @@
-# Mind_Maps
+# Sec_Mind_Maps
 Cyber Security Mind Maps collection
 
 # Some of the Mind Maps to use them You should Install the APP
@@ -15,4 +15,4 @@ https://xmind.app/download/
 - **GraphQL Security Testing Mind Map** ->https://xmind.works/share/gQBGfaVW?xid=3sZyctz5
 - **Signal Analysis** -> https://xmind.works/share/SGoeS9qY?xid=RhnE4tME -> https://xmind.works/share/kBjomnX3?xid=UAiKOmdd
 - **Power Electronics Components** -> https://xmind.works/share/VjWwWOPM?xid=CVvW50Aw
-
+- **XSS and HTML Injection Attack Methodology** -> https://xmind.ai/share/CTAMcPfH?xid=ljRnKKh9
